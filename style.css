@@ -13,7 +13,7 @@ main{
     padding: 10px;
     margin: auto;
     min-width: 300px;
-    max-width: 1000px;
+    width: 100vw;
 }
 main img.pricipal {
     max-width: 350px;
